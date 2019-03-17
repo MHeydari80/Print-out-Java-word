@@ -2,7 +2,7 @@ package oop;
 
 import java.util.Scanner;
 
-public class OOP {
+public class PrintOut {
 
     public static void main(String[] args) {
 
